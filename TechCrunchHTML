@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="" alt="logo">
+    <nav>
+        <ul>
+            <li>
+                <form action="">
+                    <input  type="text">
+                </form>
+            </li>
+            <li><a href="#">Search</a></li>
+            <li><a href="#">Startup</a></li>
+            <li><a href="#">TechCruch+</a></li>
+            <li><a href="#">Audio</a></li>
+            <li><a href="#">Newsletters</a></li>
+            <li><a href="#">Videos</a></li>
+            <li><a href="#">Adventise</a></li>
+            <li><a href="#">Events</a></li>
+            <li><a href="#">More</a></li>
+        </ul>
+     </nav>
+    </header>
+    <section>
+        <h1>Microsoft to buy Activision Blizzard for $68.7 Billion</h1>
+        <span>Amanda Silberling</span>
+        <img src="" alt="Call of Duty Activision">
+    </section>     
+    <section>
+        <ul>
+            <li><h2><a href="#"></a>Regersiter today for DeFi</a></h2>
+                <span>Alexandra Ames</span></li>
+            <li><h2><a href="#"></a>For investors, future of work isn't only about HR</a></h2>
+                <span>Anna Helm</span></li>
+            <li><h2><a href="#"></a>Upward plan to open a 250,000-square-foot vertical farm in PA early next year</a></h2>
+                <span>Brain Heater</span></li>
+            <li><h2><a href="#"></a>Wayve raises $200M Series B led by Eclipse for its AI for autonomous delivery vehicles</a></h2>
+                <span>Mike Butcher</span></li>
+        </ul>
+        <span>The Latest</span>
+    </section>
+    <section>
+        <ul>
+            <li><h2><a href="#"></a>Snapchat says it's getting better at finding illicit drug dealers before users do</a></h2>
+                    <span>Taylor Hatmaker</span>
+                    <span>11:15 AM PST January 18, 2022</span>
+                        <p>Sanpchat has faced inceasing criticism in recdnt years</p>
+                            <img src="" alt="snapchat mobile icon"></li>
+            <li><h2><a href="#"></a>Will quantum computing remain the domain of the specialist VC?</a></h2>
+                    <span>Maria Lepskaya</span>
+                    <span>11:15 AM PST January 18, 2022</span>
+                        <p>Despite all the buzz, quantum investments are still not mainstream:</p>
+                            <img src="" alt="tech cube"></li>
+            <li><h2><a href="#"></a>EX-Dispo founding members launch Roll app, where creators post exclusive content</a></h2>
+                    <span>Maria Lepskaya</span>
+                    <span>11:15 AM PST January 18, 2022</span>
+                        <p>Today marks the launch of the Roll app, which aims to create an easy way for creators to make an extra buck</p>
+                            <img src="" alt="mobile screen"></li>
+        </ul>
+    </section>
+</body>
+</html>
